@@ -1,0 +1,10 @@
+{
+  "name": "TestChatApp"
+, "version" : "0.0.0"
+, "description" : "A cool chat app"
+, "dependencies" : {
+    "socket.io" : "latest"
+  , "express" : "latest"
+  , "ejs" : "latest"
+  }
+}
